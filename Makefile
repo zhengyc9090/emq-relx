@@ -1,6 +1,6 @@
 PROJECT = emqttd-relx
 PROJECT_DESCRIPTION = Release project for the EMQ Broker
-PROJECT_VERSION = 2.0
+PROJECT_VERSION = 3.0
 
 DEPS = emqttd emq_dashboard emq_recon emq_reloader emq_stomp emq_plugin_template \
 	   emq_mod_rewrite emq_mod_presence emq_mod_retainer emq_mod_subscription \
