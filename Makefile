@@ -1,4 +1,4 @@
-PROJECT = emqttd-relx
+PROJECT = emq-relx
 PROJECT_DESCRIPTION = Release project for the EMQ Broker
 PROJECT_VERSION = 3.0
 
