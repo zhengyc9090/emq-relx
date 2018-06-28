@@ -40,7 +40,7 @@ dep_emq_stomp = git https://github.com/emqtt/emq-stomp master
 dep_emq_plugin_template = git https://github.com/emqtt/emq-plugin-template master
 
 # kafka
-emqttd_plugin_kafka_bridge = git https://github.com/zhengyc9090/emq_plugin_kafka_ekaf.git
+emqttd_plugin_kafka_bridge = git https://github.com/zhengyc9090/emq_plugin_kafka_ekaf master
 
 # web_hook lua_hook
 dep_emq_web_hook  = git https://github.com/emqtt/emq-web-hook master
